@@ -26,7 +26,7 @@ export default function Home() {
 
       <Textarea3/>
 
-      <Textarea4/>
+      <Textarea4 text1='Selling on HypeIndustry' text2='BECOME A SELLER' text3='CREATE A LISTING' text4='SELLER FEE' text5='CONDITION OF ITEMS'/>
 
       <Textarea5/>
       <br/><br/>

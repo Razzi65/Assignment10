@@ -18,7 +18,7 @@ const Navbar = () => {
           <a className="nav-link text-dark" href="http://localhost:3000">HYPEINDUSTRY <span className="sr-only"></span></a>
         </li>
         <li className="nav-item">
-          <a className="nav-link text-dark" href="http://localhost:3000/hypeoffers">HYPE OFFERS</a>
+          <a className="nav-link text-dark" href="">HYPE OFFERS</a>
         </li> 
         <li className="nav-item ">
           <a className="nav-link text-dark" href="#">SHIPPING</a>

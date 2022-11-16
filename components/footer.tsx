@@ -8,7 +8,7 @@ const Footer = () => {
                     <ul className="pt-4 ps-5 text-center">
                         <h5 > <b> HYPEINDUSTRY </b> </h5>
                         <br />
-                        <p> HypeIndustry Concept</p>
+                        <p> <a href="http://localhost:3000/hypeindustry_concepts"> HypeIndustry Concept </a></p>
                         <p> Buying Guide</p>
                         <p> Selling Guide</p>
 

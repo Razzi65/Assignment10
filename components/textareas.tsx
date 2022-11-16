@@ -1,6 +1,5 @@
 import main from "*.png"
 
-
 const Textareas = () => {
   return (
     <div className="container">
